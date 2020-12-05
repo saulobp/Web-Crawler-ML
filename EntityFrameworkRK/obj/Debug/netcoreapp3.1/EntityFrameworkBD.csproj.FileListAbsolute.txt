@@ -1,0 +1,3 @@
+C:\Users\Ruth Souto\Documents\Saulo\RobotMercadoLivre-20201205T185332Z-001\EntityFrameworkRK\obj\Debug\netcoreapp3.1\EntityFrameworkBD.csproj.CoreCompileInputs.cache
+C:\Users\Ruth Souto\Documents\Saulo\RobotMercadoLivre-20201205T185332Z-001\EntityFrameworkRK\obj\Debug\netcoreapp3.1\EntityFrameworkBD.AssemblyInfoInputs.cache
+C:\Users\Ruth Souto\Documents\Saulo\RobotMercadoLivre-20201205T185332Z-001\EntityFrameworkRK\obj\Debug\netcoreapp3.1\EntityFrameworkBD.AssemblyInfo.cs
